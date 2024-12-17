@@ -6,7 +6,7 @@ This repository contains a lightweight multimodal model for detecting depression
 
 ##  Overview
 
-![](G:\내 드라이브\★Project\depression\Home-PC\EATD-Corpus\github\fig1.jpg)
+![](fig1.jpg)
 
 
 
