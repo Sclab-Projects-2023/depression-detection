@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-TBD
+Eunchae Lim, Min Jhon, Ju-Wan Kim, Soo-Hyung Kim, Seungwon Kim, and Hyung-Jeong Yang, "A Lightweight Approach Based on Cross-Modality for Depression Detection", Computers in Biology and Medicine, Vol. 186, 109618, 2025
 
 
 
