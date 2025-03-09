@@ -2,6 +2,7 @@
 
 This repository contains a lightweight multimodal model for detecting depression using **audio** and **text** data. It integrates **cross-modality fusion** techniques to analyze non-linguistic and linguistic features, enabling efficient and accurate depression detection across multiple languages (English, Chinese, Korean).
 
+Paper: https://doi.org/10.1016/j.compbiomed.2024.109618
 
 
 ##  Overview
